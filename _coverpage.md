@@ -5,5 +5,5 @@
 
 
 
-[GitHub](https://github.com/docsifyjs/docsify/) git
+[GitHub](https://github.com/AlejandroMar/locations-api-docs)
 [Get Started](#connecting-to-the-api)
