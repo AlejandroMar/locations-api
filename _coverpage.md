@@ -5,5 +5,5 @@
 
 
 
-[GitHub](https://github.com/AlejandroMar/locations-api-docs)
+[GitHub](https://github.com/AlejandroMar/locations-api-server)
 [Get Started](#connecting-to-the-api)
