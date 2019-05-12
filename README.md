@@ -1,5 +1,5 @@
 # Connecting to the API
-To save locations with the API, make a <span style="color:red; font-weight:bold">POST </span> request to the following end point:
+To save locations with the API, make a <span style="color:red; font-weight:bold">POST </span> request to the following endpoint:
 > http<nolink>://localhost:4000/api/locations/
 
 ## Request headers
